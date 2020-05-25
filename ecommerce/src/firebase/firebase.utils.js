@@ -4,13 +4,7 @@ import 'firebase/auth';
 
 
 const config = {
-    apiKey: "AIzaSyByi22DrK17bJK-odr8GRJ5jQsLoMtCei0",
-    authDomain: "commerce-db-16df2.firebaseapp.com",
-    databaseURL: "https://commerce-db-16df2.firebaseio.com",
-    projectId: "commerce-db-16df2",
-    storageBucket: "commerce-db-16df2.appspot.com",
-    messagingSenderId: "443650744350",
-    appId: "1:443650744350:web:777ab3edd68d1523494e0f", 
+    
 };
 
 firebase.initializeApp(config);
